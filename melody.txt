@@ -1,0 +1,7 @@
+*************[Phone Book]*************
+
+Enter contact details...
+Contact Name: folahan
+Phone number: 08050211753
+Address: Juno hostel
+---------------
